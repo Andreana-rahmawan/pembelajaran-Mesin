@@ -796,7 +796,6 @@ display(df_proses.tail(5).round(4))
 
 
 
-# 14. KESIMPULAN OTOMATIS
 
 
 print("\n" + "=" * 70)
